@@ -1,2 +1,2 @@
 # PerfomanceLabTask
-Test tasks for java junior in PerformanceLab
+Test tasks for  junior developer in PerformanceLab
