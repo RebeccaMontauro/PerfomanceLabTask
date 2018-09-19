@@ -1,0 +1,52 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto&subset=latin,cyrillic);
+
+            body {
+                font-size: 14px;
+                line-height: 16px;
+                font-family: Roboto;
+                color: #4c4c4c;
+                background-color: rgba(201, 76, 76, 0.3);
+            }
+
+            #header {
+                font-family: Georgia, serif;
+                font-size: 18px;
+                margin-bottom: 50px;
+            }
+
+            #footer {
+                position: fixed;
+                left: 0;
+                bottom: 0;
+                padding: 10px;
+                background-color: #91a6c0;
+                width: 100%;
+            }
+
+            .leftimg {
+                float: left;
+                margin: 7px 7px 7px 0;
+            }
+
+            .rightimg {
+                float: right;
+                margin: 7px 0 7px 7px;
+            }
+
+            .col {
+                -webkit-columns: 200px 3;
+                -moz-columns: 200px 3;
+                columns: 200px 3;
+                -webkit-column-gap: 30px;
+                -moz-column-gap: 30px;
+                column-gap: 30px;
+                -webkit-column-rule: 1px solid #ccc;
+                -moz-column-rule: 1px solid #ccc;
+                column-rule: 1px solid #ccc;
+            }
+
+            #id {
+                padding: 24px 0 41px 0;
+                border-bottom: 1px solid #cbcbcb;
+                font-family: Arial;
+            }
